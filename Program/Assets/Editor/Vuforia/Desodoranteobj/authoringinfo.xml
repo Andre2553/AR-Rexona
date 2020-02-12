@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.5.8">
+<ModelTarget name="Desodoranteobj" targetId="ed126380ce4c499097c8f2a2264f2933" version="11.1" toolVersion="8.5.8" bbox="-0.041539 0.024153 0.207451 0.103688 0.605103 0.347255" previewImage="ed126380ce4c499097c8f2a2264f2933_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Desodoranteobjs_assembly" assemblyId="ad12a2685d0c4141ad60a446c7852ad3">
+<Part name="Desodoranteobj" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.17297 0.254595 0.809232" rotation="AD: 0.9994660603473507 -0.08252868806339345 0.4398706199719116 199.434" image="Desodoranteobj_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

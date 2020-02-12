@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Desodoranteobj" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="Desodoranteobjs_assembly" assemblyId="ad12a2685d0c4141ad60a446c7852ad3">
+<Part name="Desodoranteobj" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.17297 0.254595 0.809232" rotation="AD: 0.9994660603473507 -0.08252868806339345 0.4398706199719116 199.434" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
